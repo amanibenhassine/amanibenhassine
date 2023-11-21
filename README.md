@@ -1,6 +1,6 @@
 ### Hi, I'm Amani 👋
 
-<img src= Amani ben hassine.gif >
+<img src= Ameni Ben Hassine.gif >
 
  I am a MERN stack developer . I have a strong background in web development and a passion for creating intuitive and visually appealing web applications.
 
